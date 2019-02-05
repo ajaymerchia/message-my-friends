@@ -1,0 +1,6 @@
+framework module Pods_mdb_ios_mp5_message_my_friends {
+  umbrella header "Pods-mdb-ios-mp5_message_my_friends-umbrella.h"
+
+  export *
+  module * { export * }
+}
